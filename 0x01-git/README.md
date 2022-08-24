@@ -1,1 +1,1 @@
-Trying out the new git seld coded assignment from alx
+Trying out the new git self coded assignment from alx now on git interface
